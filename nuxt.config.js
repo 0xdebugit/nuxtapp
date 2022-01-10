@@ -5,7 +5,7 @@ export default {
   target: 'static',  
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - nuxtapp',
+    titleTemplate: '%s - helping digitize government docs',
     title: 'Glare',
     htmlAttrs: {
       lang: 'en'
