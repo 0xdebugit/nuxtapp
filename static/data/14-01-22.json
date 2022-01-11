@@ -1762,27 +1762,6 @@
     "Sl No": 98,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 7,
-    "Station Name": "VNR",
-    "Feeder No /Name": "F-6",
-    "IF LT Work\nDTC code  capacity": "   N3TC-258",
-    " Nomenclature of Works": "LT AB Cable laying and charging.",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WAMS WORK ORDER NO 1424706",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "Aladamara park Surrounding,  2nd main, 3rd main & 4th main. 1st B Cross to 1st E cross Surrounding Basaveshwaranagar.",
-    "HT consumers": 0,
-    "LT consumers": 350,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 99,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
     "OM Unit": "O&M-5",
     "Station Name": "Remco",
@@ -1800,7 +1779,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 100,
+    "Sl No": 99,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -1820,7 +1799,7 @@
     "Total interruption period in ": "06:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 101,
+    "Sl No": 100,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -1840,7 +1819,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 102,
+    "Sl No": 101,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -1861,7 +1840,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 103,
+    "Sl No": 102,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -1882,7 +1861,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 104,
+    "Sl No": 103,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -1903,7 +1882,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 105,
+    "Sl No": 104,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -1924,28 +1903,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 106,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 9,
-    "Station Name": "NRS",
-    "Feeder No /Name": "F23",
-    "IF LT Work\nDTC code  capacity": "N3TC378",
-    " Nomenclature of Works": "ERECTION OF POLE AND LAYING OF AB CABLE",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "Magadi main road opp to veeresh theatreAgrahara Dasarahalli Ward no 106",
-    "HT consumers": 0,
-    "LT consumers": 18,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 107,
+    "Sl No": 105,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -1966,7 +1924,7 @@
     "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 108,
+    "Sl No": 106,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N6",
@@ -1987,28 +1945,7 @@
     "Remarks\n(changeover arranged details)": "Work will be taken up as schelduled from 15th Jan 2022",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 109,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N6",
-    "OM Unit": "O&M2 (SUNKADAKATTE)",
-    "Station Name": "SRIGANDHA KAVALU",
-    "Feeder No /Name": "F-6",
-    "IF LT Work\nDTC code  capacity": "TC-542,222,904, 295,744,352,",
-    " Nomenclature of Works": "ESTIMATE FOR CONVERSION OF  HT OH TO UG AND LT OVERHEAD LINE TO LT AB CABLE IN F -06 FEEDER OF SRIGANDHA KAVALU MUSS IN O&M-02 OF N6 SUB DIVISION",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "N-106347 / 2.11.2020",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "LAKSHMANA NAGARA, SANJEEVINI NAGARA, ",
-    "HT consumers": 0,
-    "LT consumers": 2100,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Remarks\n(changeover arranged details)": "Work will be taken up as schelduled from 15th Jan 2022",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 110,
+    "Sl No": 107,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N6",
@@ -2028,49 +1965,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 111,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 9,
-    "Station Name": "VNR",
-    "Feeder No /Name": "F9",
-    "IF LT Work\nDTC code  capacity": "N3TC-295",
-    " Nomenclature of Works": "ERECTION OF POLE AND LAYING OF AB CABLE",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WORK ORDER NUMBER YET TO BE RECEIVED",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "A.D.HALLI 10TH CROSS 10TH MAIN BEHIND AMBEDKAR STADIUM  WARD NO 106",
-    "HT consumers": 0,
-    "LT consumers": 550,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 112,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 9,
-    "Station Name": "NRS",
-    "Feeder No /Name": "F23",
-    "IF LT Work\nDTC code  capacity": "N3TC703",
-    " Nomenclature of Works": "LT AB CABLE",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "Magadi main road opp to veeresh theatreAgrahara Dasarahalli Ward no 106",
-    "HT consumers": 0,
-    "LT consumers": 244,
-    "From": "10:30",
-    "To": "12:30",
-    "Total interruption period in ": "02:00",
-    "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 113,
+    "Sl No": 108,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2091,7 +1986,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 114,
+    "Sl No": 109,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2112,7 +2007,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 115,
+    "Sl No": 110,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2132,7 +2027,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 116,
+    "Sl No": 111,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2152,7 +2047,7 @@
     "Total interruption period in ": "06:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 117,
+    "Sl No": 112,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2172,7 +2067,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 118,
+    "Sl No": 113,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2193,7 +2088,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 119,
+    "Sl No": 114,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2214,7 +2109,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 120,
+    "Sl No": 115,
     "Circle ": "DAVANAGERE ",
     "Division": "CHITRADURGA ",
     "Sub Dvn": "HL1",
@@ -2231,7 +2126,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 121,
+    "Sl No": 116,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2251,7 +2146,7 @@
     "Total interruption period in ": "06:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 122,
+    "Sl No": 117,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2271,27 +2166,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 123,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N2",
-    "OM Unit": "O&M-5",
-    "Station Name": "Chandralayout",
-    "Feeder No /Name": "Chandralayout/F1",
-    "IF LT Work\nDTC code  capacity": "6)DTC52-WIDIA LAYOUT 7)DTC336-BHEL GUEST HOUSE\n8)DTC85- BASAVESHWARA LAYOUT 9)DTC243-NEAR BUNT SANGHA, SUBBANNA GARDEN 1",
-    " Nomenclature of Works": "Estimate for conversion of LT Overhead line in to AB Cable pertaining to F1  Feeder , CHANDRALAYOUT MUSS in O&M-5,N2 Sub-division.",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "2021/RN/14.1927/P-113459-15-04-2021",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "WIDIA LAYOUT,BHEL GUEST HOUSE, BASAVESHWARA LAYOUT,NEAR BUNT SANGHA, SUBBANNA GARDEN,",
-    "HT consumers": 3,
-    "LT consumers": 2212,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 124,
+    "Sl No": 118,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2312,47 +2187,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 125,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 7,
-    "Station Name": "VNR",
-    "Feeder No /Name": "F-6",
-    "IF LT Work\nDTC code  capacity": "N3TC329",
-    " Nomenclature of Works": "LT AB Cable laying and charging.",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WAMS WORK ORDER NO 1424706",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "1st cross, 2nd cross Sharada colony, 3rd main meenakshi nagar and Krishna Kalyana mantapa sourrounding.",
-    "HT consumers": 0,
-    "LT consumers": 280,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 126,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 7,
-    "Station Name": "VNR",
-    "Feeder No /Name": "F-6",
-    "IF LT Work\nDTC code  capacity": "N3TC329",
-    " Nomenclature of Works": "LT AB Cable laying and charging.",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WAMS WORK ORDER NO 1424706",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "1st cross, 2nd cross Sharada colony, 3rd main meenakshi nagar and Krishna Kalyana mantapa sourrounding.",
-    "HT consumers": 0,
-    "LT consumers": 280,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 127,
+    "Sl No": 119,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2373,7 +2208,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 128,
+    "Sl No": 120,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2394,49 +2229,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 129,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 9,
-    "Station Name": "VNR",
-    "Feeder No /Name": "F9",
-    "IF LT Work\nDTC code  capacity": "N3TC589",
-    " Nomenclature of Works": "ERECTION OF POLE AND LAYING OF AB CABLE",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WORK ORDER NUMBER YET TO BE RECEIVED",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "A.D.HALLI 10TH CROSS 10TH MAIN BEHIND AMBEDKAR STADIUM  WARD NO 106",
-    "HT consumers": 0,
-    "LT consumers": 352,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 130,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N3",
-    "OM Unit": 9,
-    "Station Name": "VNR",
-    "Feeder No /Name": "F9",
-    "IF LT Work\nDTC code  capacity": "N3TC306",
-    " Nomenclature of Works": "ERECTION OF POLE AND LAYING OF AB CABLE",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "WORK ORDER NUMBER YET TO BE RECEIVED",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "A.D.HALLI 10TH CROSS 10TH MAIN BEHIND AMBEDKAR STADIUM  WARD NO 106",
-    "HT consumers": 0,
-    "LT consumers": 425,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 131,
+    "Sl No": 121,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N6",
@@ -2456,27 +2249,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 132,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N6",
-    "OM Unit": "O&M2 (SUNKADAKATTE)",
-    "Station Name": "SRIGANDHA KAVALU",
-    "Feeder No /Name": "F-6",
-    "IF LT Work\nDTC code  capacity": " 302,  133, 581, 581, 740,327, 328, 349,",
-    " Nomenclature of Works": "ESTIMATE FOR CONVERSION OF  HT OH TO UG AND LT OVERHEAD LINE TO LT AB CABLE IN F -06 FEEDER OF SRIGANDHA KAVALU MUSS IN O&M-02 OF N6 SUB DIVISION",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "N-106347 / 2.11.2020",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": " HEGGANAHALLI, HEGGANAHALLI CROSS, ",
-    "HT consumers": 0,
-    "LT consumers": 1452,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 133,
+    "Sl No": 122,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2497,7 +2270,7 @@
     "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 134,
+    "Sl No": 123,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2518,7 +2291,7 @@
     "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 135,
+    "Sl No": 124,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2539,7 +2312,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 136,
+    "Sl No": 125,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2559,7 +2332,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 137,
+    "Sl No": 126,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2579,7 +2352,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 138,
+    "Sl No": 127,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2599,7 +2372,7 @@
     "Total interruption period in ": "06:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 139,
+    "Sl No": 128,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2620,7 +2393,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 140,
+    "Sl No": 129,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2641,7 +2414,7 @@
     "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 141,
+    "Sl No": 130,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2662,7 +2435,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 142,
+    "Sl No": 131,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2682,7 +2455,7 @@
     "Total interruption period in ": "06:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 143,
+    "Sl No": 132,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -2702,7 +2475,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 144,
+    "Sl No": 133,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2723,7 +2496,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 145,
+    "Sl No": 134,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -2744,7 +2517,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 146,
+    "Sl No": 135,
     "Circle ": "NORTH",
     "Division": "PEENYA",
     "Sub Dvn": "N7",
@@ -2757,7 +2530,7 @@
     "Total interruption period in ": "03:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 147,
+    "Sl No": 136,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N6",
@@ -2777,7 +2550,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 148,
+    "Sl No": 137,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "HLD",
@@ -2794,7 +2567,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 149,
+    "Sl No": 138,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2811,7 +2584,7 @@
     "Total interruption period in ": "04:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 150,
+    "Sl No": 139,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2828,7 +2601,7 @@
     "Total interruption period in ": "04:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 151,
+    "Sl No": 140,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "YD1",
@@ -2845,7 +2618,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 152,
+    "Sl No": 141,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2862,7 +2635,7 @@
     "Total interruption period in ": "04:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 153,
+    "Sl No": 142,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "HLD",
@@ -2879,7 +2652,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 154,
+    "Sl No": 143,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2896,7 +2669,7 @@
     "Total interruption period in ": "04:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 155,
+    "Sl No": 144,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "YD1",
@@ -2913,7 +2686,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 156,
+    "Sl No": 145,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2930,7 +2703,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 157,
+    "Sl No": 146,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2947,7 +2720,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 158,
+    "Sl No": 147,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -2964,7 +2737,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 159,
+    "Sl No": 148,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N6",
@@ -2984,7 +2757,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 160,
+    "Sl No": 149,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -3005,7 +2778,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 161,
+    "Sl No": 150,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -3026,7 +2799,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 162,
+    "Sl No": 151,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -3047,7 +2820,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 163,
+    "Sl No": 152,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -3068,7 +2841,7 @@
     "Remarks\n(changeover arranged details)": "Work proposed as per WAMS Work order.",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 164,
+    "Sl No": 153,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -3088,7 +2861,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 165,
+    "Sl No": 154,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -3108,7 +2881,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 166,
+    "Sl No": 155,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -3129,7 +2902,7 @@
     "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 167,
+    "Sl No": 156,
     "Circle ": "SOUTH",
     "Division": "HSR",
     "Sub Dvn": "S11",
@@ -3142,7 +2915,7 @@
     "Total interruption period in ": "03:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 168,
+    "Sl No": 157,
     "Circle ": "SOUTH",
     "Division": "HSR",
     "Sub Dvn": "S11",
@@ -3155,7 +2928,7 @@
     "Total interruption period in ": "03:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 169,
+    "Sl No": 158,
     "Circle ": "TUMKUR ",
     "Division": "KUNIGAL",
     "Sub Dvn": "KU1",
@@ -3172,7 +2945,7 @@
     "Total interruption period in ": "05:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 170,
+    "Sl No": 159,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N3",
@@ -3193,7 +2966,7 @@
     "Remarks\n(changeover arranged details)": "WORK ORDER TO BE ISSUED -CONTRACTOR HAS AGREED TO COMPLETE THE WORK",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 171,
+    "Sl No": 160,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -3213,7 +2986,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 172,
+    "Sl No": 161,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N2",
@@ -3233,7 +3006,7 @@
     "Total interruption period in ": "07:00",
     "Work Belongs to Station / BESCOM": "BESCOM"
 },{
-    "Sl No": 173,
+    "Sl No": 162,
     "Circle ": "WEST",
     "Division": "RAJAJINAGAR",
     "Sub Dvn": "N6",
@@ -3248,26 +3021,6 @@
     "Areas affected": "SUNKADAKATTE, PIPELINE RAOAD SUNAKADAKATTE.",
     "HT consumers": 0,
     "LT consumers": 785,
-    "From": "10:30",
-    "To": "17:30",
-    "Total interruption period in ": "07:00",
-    "Work Belongs to Station / BESCOM": "BESCOM"
-},{
-    "Sl No": 174,
-    "Circle ": "WEST",
-    "Division": "RAJAJINAGAR",
-    "Sub Dvn": "N2",
-    "OM Unit": "O&M-5",
-    "Station Name": "Chandralayout",
-    "Feeder No /Name": "Chandralayout/F1",
-    "IF LT Work\nDTC code  capacity": "6)DTC52-WIDIA LAYOUT 7)DTC336-BHEL GUEST HOUSE\n8)DTC85- BASAVESHWARA LAYOUT 9)DTC243-NEAR BUNT SANGHA, SUBBANNA GARDEN 1",
-    " Nomenclature of Works": "Estimate for conversion of LT Overhead line in to AB Cable pertaining to F1  Feeder , CHANDRALAYOUT MUSS in O&M-5,N2 Sub-division.",
-    "CAPEX/\nMaintenance ": "Capex",
-    "Work order  No and Date": "2021/RN/14.1927/P-113459-15-04-2021",
-    "Date of LC planned": "14-01-2022",
-    "Areas affected": "WIDIA LAYOUT,BHEL GUEST HOUSE, BASAVESHWARA LAYOUT,NEAR BUNT SANGHA, SUBBANNA GARDEN,",
-    "HT consumers": 3,
-    "LT consumers": 2212,
     "From": "10:30",
     "To": "17:30",
     "Total interruption period in ": "07:00",
