@@ -97,7 +97,7 @@ export default {
         return this.tdata.filter(item => {
           if(Object.keys(item).includes('Station Name') && Object.keys(item).includes('Areas affected')){
             if(item['Station Name'].length > 0 && item['Areas affected'].length > 0){
-              return item['Station Name'].toLowerCase().includes(this.search) || item['Areas affected'].toLowerCase().includes(this.search)
+              return item['Station Name'].toLowerCase().includes(this.search.toLowerCase()) || item['Areas affected'].toLowerCase().includes(this.search.toLowerCase())
             }
           }
         });
