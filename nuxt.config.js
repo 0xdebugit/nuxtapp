@@ -46,7 +46,9 @@ export default {
   ],
 
   googleAnalytics: {
-    id: 'G-3PMB47BSEN'
+    id: 'UA-177614702-2',
+    // layer: 'dataLayer',
+    // pageTracking: true,    
   },  
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
