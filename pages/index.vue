@@ -2,14 +2,35 @@
   <div>
 
 
-    <div align="center">
+    <div align="center" style="animation-name: fadeInUp; animation-fill-mode: both; animation-duration: 1s">
       <span class="text-h6" style="color: #007bff">BESCOM</span>
     </div>   
 
     <div style="margin-top: -8px;margin-bottom: 10px;color: #6c757d;" align="center">
       <span class="text-caption" style="font-weight: 200">List of Areas Scheduled for Power Outage in Bengaluru</span>
     </div>
-    <div class="flex">
+
+    <div style="margin-top: -8px;margin-bottom: 10px;color: #6c757d;" align="center">
+      <v-btn
+        dense
+        small
+        rounded
+        color="blue-grey"
+        class="ma-2 white--text"
+        href="https://t.me/glare_app"
+        target="_blank"
+      >
+        Join our telegram group
+        <v-icon
+          right
+          dark
+        >
+          mdi-send
+        </v-icon>
+      </v-btn>
+    </div>      
+
+    <div class="flex" style="animation-name: fadeInDown; animation-fill-mode: both; animation-duration: 2s">
         <v-select
           :items="items"
           v-model="date_selected"
@@ -33,8 +54,8 @@
     </v-text-field>
   
     </div>
-
-    <div class="mb-6">
+  
+    <div class="mb-6" style="animation-name: fadeInUp; animation-fill-mode: both; animation-duration: 1.4s">
       <v-simple-table class="elevation-3 rounded-lg">
         <template v-slot:default>
           <thead>
@@ -82,6 +103,7 @@ export default {
   name: "InspirePage",
   data() {
     return {
+      expand: false,
       search_placeholder: '',
       search: '',
       date_selected: '',
@@ -121,7 +143,7 @@ export default {
 
           if(Object.keys(item).includes('From') && Object.keys(item).includes('To')){
             color_code = item['To'].split(':')[0] - item['From'].split(':')[0]
-            color_code = color_code < 7 ? this.color_range[color_code] : this.color_range[7];
+            color_code = color_code <= 7 ? this.color_range[color_code] : this.color_range[7];
           }
           item['color_code'] = color_code;
           this.tdata.push(item)
@@ -130,7 +152,7 @@ export default {
 
       setTimeout(() => {
         this.overlay = false;  
-      }, 2000);
+      }, 1000);
       
     }
   },
@@ -150,3 +172,49 @@ export default {
   }
 };
 </script>
+
+<style>
+.fadeInUp {
+    -webkit-animation-duration: .75s;
+    animation-duration: .75s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;  
+}
+
+.fadeInDown {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+}
+
+@keyframes fadeInUp {
+  0% {
+      opacity: 0;
+      -webkit-transform: translate3d(0,20px,0);
+      transform: translate3d(0,20px,0);
+  }
+  100% {
+      opacity: 1;
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
+  }
+}
+
+@keyframes fadeInDown {
+  0% {
+      opacity: 0;
+      -webkit-transform: translate3d(0,-20px,0);
+      transform: translate3d(0,-20px,0);
+  }
+  100% {
+      opacity: 1;
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
+  }  
+}
+</style>
