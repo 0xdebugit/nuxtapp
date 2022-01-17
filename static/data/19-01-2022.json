@@ -1,0 +1,1442 @@
+[
+    {
+        "Sl No": "1",
+        "Station Name": "BMTC",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "LAKSHMI ROAD"
+    },
+    {
+        "Sl No": "2",
+        "Station Name": "KANTEERAVA",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "1ST MAIN VINAYAKA NAGARA"
+    },
+    {
+        "Sl No": "3",
+        "Station Name": "BMTC ",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": ""
+    },
+    {
+        "Sl No": "4",
+        "Station Name": "B Station",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Pride  hotel ahuja palcace HJS chamber"
+    },
+    {
+        "Sl No": "5",
+        "Station Name": "ISRO layout",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Bikisipura,Mango Garden, Prathima Industrial Layout,kashi Nagar Lake, Isro Layout"
+    },
+    {
+        "Sl No": "6",
+        "Station Name": "Subramanyapura",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Annapoorna Industrial Area, Shardhanagar and Sourrounding Area"
+    },
+    {
+        "Sl No": "7",
+        "Station Name": "ISCKON",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Siddapura,2nd block, 18th cross,8th cross,6th cross, 10th Main  1st block, 3rd block, 18th Cross, 7th Cross, Someshwaranagar"
+    },
+    {
+        "Sl No": "8",
+        "Station Name": "66/11KV SARAKKI",
+        "From": "10:00:00",
+        "To": "17:30:00",
+        "Total": "07:30:00",
+        "Areas affected": "8th crs, 9th & 10th crs JP nagar 1st phase, Shakambari nagar, 9th cross, IG circle, Sarakki market, KT apartment, WMS compound backside"
+    },
+    {
+        "Sl No": "9",
+        "Station Name": "66/11KV RBI",
+        "From": "10:00:00",
+        "To": "17:30:00",
+        "Total": "07:30:00",
+        "Areas affected": "RBI layout, YADAV FARM"
+    },
+    {
+        "Sl No": "10",
+        "Station Name": "Padmanabhanagar",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Thagarajanagara main road ,BBMP Swimming pool surrounding Munireddy Buliding  "
+    },
+    {
+        "Sl No": "11",
+        "Station Name": "Padmanabhanagar",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "1st Cross Road Banagiri Nagar ,BWSSB Office"
+    },
+    {
+        "Sl No": "12",
+        "Station Name": "SARAKKI",
+        "From": "10:00:00",
+        "To": "17:30:00",
+        "Total": "07:30:00",
+        "Areas affected": "JP NAGAR 2ND PHASE , 3RD PHASE, 4TH PHASE,5TH PHASE , 15TH CROSS JP NAGAR, DOLLORS LAYOUT"
+    },
+    {
+        "Sl No": "13",
+        "Station Name": "Subramanyapura",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Martha's hospital Road,Uttarahalli Circle, Govt. Hospital Uttarahalli"
+    },
+    {
+        "Sl No": "14",
+        "Station Name": "ADG",
+        "From": "10:30:00",
+        "To": "13:30:00",
+        "Total": "03:00:00",
+        "Areas affected": "3rd block&4th block , water tank  surrounding Area"
+    },
+    {
+        "Sl No": "15",
+        "Station Name": "RMZ",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Devarabisanahalli Sakra Hospital Road, "
+    },
+    {
+        "Sl No": "16",
+        "Station Name": "220/66KV EPIP MUSS",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "ITPL Main Road, AECS Layout B Block"
+    },
+    {
+        "Sl No": "17",
+        "Station Name": "220/66KV Divyashree MUSS",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Sai Baba Temple Road"
+    },
+    {
+        "Sl No": "18",
+        "Station Name": "66/11KV Divyashree",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Gandinagara Road"
+    },
+    {
+        "Sl No": "19",
+        "Station Name": "66/11KV Kadabeesanahalli MUSS",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Balaji Layout"
+    },
+    {
+        "Sl No": "20",
+        "Station Name": "66/11KV Cessna MUSS",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "JCR LAYOUT"
+    },
+    {
+        "Sl No": "21",
+        "Station Name": "66/11KV Kadubeesanahalli MUSS",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "CROMA ROAD"
+    },
+    {
+        "Sl No": "22",
+        "Station Name": "66/11KV Divyashree MUSS",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Spice Garden"
+    },
+    {
+        "Sl No": "23",
+        "Station Name": "Divyashree",
+        "From": "10:30:00",
+        "To": "12:30:00",
+        "Total": "02:00:00",
+        "Areas affected": "Bhuvaneshwari L/o Near MLA HOUSE"
+    },
+    {
+        "Sl No": "24",
+        "Station Name": "Divyashree",
+        "From": "13:00:00",
+        "To": "15:30:00",
+        "Total": "02:30:00",
+        "Areas affected": "Mangalaya Apt"
+    },
+    {
+        "Sl No": "25",
+        "Station Name": "Divyashree",
+        "From": "15:30:00",
+        "To": "17:00:00",
+        "Total": "01:30:00",
+        "Areas affected": "Munneshwara temple Munnekolal"
+    },
+    {
+        "Sl No": "26",
+        "Station Name": "Divyashree",
+        "From": "11:00:00",
+        "To": "13:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "Raghavendra Apartment"
+    },
+    {
+        "Sl No": "27",
+        "Station Name": "Divyashree",
+        "From": "13:00:00",
+        "To": "14:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "Satiko apt"
+    },
+    {
+        "Sl No": "28",
+        "Station Name": "Divyashree",
+        "From": "13:00:00",
+        "To": "15:30:00",
+        "Total": "02:30:00",
+        "Areas affected": "Lakshmi Layout"
+    },
+    {
+        "Sl No": "29",
+        "Station Name": "Divyashree",
+        "From": "15:30:00",
+        "To": "17:00:00",
+        "Total": "01:30:00",
+        "Areas affected": "Yashomathi"
+    },
+    {
+        "Sl No": "30",
+        "Station Name": "L&T Southcity",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "BWSSB, Rajathadri layout, pavamana nagara, Gayathri tapovana, nayak layout, BK circle, Venkateshwara layout, Halli mane, Clasic layout, Kalena agrahara, meenakshi layout, Behind meenakshi temple, Part of BG road and surrondings."
+    },
+    {
+        "Sl No": "31",
+        "Station Name": "Anjanapura",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "BDA 2nd phase, Near Mangalya"
+    },
+    {
+        "Sl No": "32",
+        "Station Name": "Anjanapura",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "5th Block BDA"
+    },
+    {
+        "Sl No": "33",
+        "Station Name": "SOUTH CITY",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Venkateshwara BDA L/o &surrounding"
+    },
+    {
+        "Sl No": "34",
+        "Station Name": "RBI",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Kothnur main road, ganesha temple, Rose Gardent &surrounding"
+    },
+    {
+        "Sl No": "35",
+        "Station Name": "HSR ",
+        "From": "10:30:00",
+        "To": "15:30:00",
+        "Total": "05:00:00",
+        "Areas affected": "Kudlu main road, Yashodamma layout VGP layout and surrounding area "
+    },
+    {
+        "Sl No": "36",
+        "Station Name": "Shobha",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "BNR Emerald"
+    },
+    {
+        "Sl No": "37",
+        "Station Name": "HIRANANDANI MUSS",
+        "From": "10:30:00",
+        "To": "16:30:00",
+        "Total": "06:00:00",
+        "Areas affected": "opp corporation bank"
+    },
+    {
+        "Sl No": "38",
+        "Station Name": "ITI",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "Ragavendra Circle"
+    },
+    {
+        "Sl No": "39",
+        "Station Name": "ITI",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "Thanu Sree Nilaya"
+    },
+    {
+        "Sl No": "40",
+        "Station Name": "LEELA S/S",
+        "From": "10:00:00",
+        "To": "15:00:00",
+        "Total": "1900-01-06 05:00:00",
+        "Areas affected": "2nd main, 8th, 9th main & 10 th Min Kodihalli"
+    },
+    {
+        "Sl No": "41",
+        "Station Name": "PR",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "MANJUNATHA TC"
+    },
+    {
+        "Sl No": "42",
+        "Station Name": "HBR",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "BANASWADI MAIN ROAD"
+    },
+    {
+        "Sl No": "43",
+        "Station Name": "HBR",
+        "From": "10:00:00",
+        "To": "00:00:00",
+        "Total": "1900-01-04 14:00:00",
+        "Areas affected": "Govindapur main road , Rashad Nagar, Noble school road, Arabic college road gas factory , wood factory road "
+    },
+    {
+        "Sl No": "44",
+        "Station Name": "HBR",
+        "From": "10:00:00",
+        "To": "00:00:00",
+        "Total": "1900-01-04 14:00:00",
+        "Areas affected": "ILAL NAGAR, UMAR NAGAR, NAGAWARA, CHANAKYA LAYOUT "
+    },
+    {
+        "Sl No": "45",
+        "Station Name": "GDL",
+        "From": "10:00:00",
+        "To": "00:00:00",
+        "Total": "1900-01-04 14:00:00",
+        "Areas affected": "Jankai ram Layout , ben sathya layout Vaddarapalya, hennur Bande "
+    },
+    {
+        "Sl No": "46",
+        "Station Name": "66/11 kV Manyatha",
+        "From": "10:00:00",
+        "To": "00:00:00",
+        "Total": "1900-01-02 14:00:00",
+        "Areas affected": "Manyatha Residency , Rachenahalli , P&T layout , Arkavthi layout, Bhagyashree layout , Thanisandra"
+    },
+    {
+        "Sl No": "47",
+        "Station Name": "A",
+        "From": "10:00:00",
+        "To": "14:00:00",
+        "Total": "04:00:00",
+        "Areas affected": " NEARSIDDAPAJJI TEMPLE  AND SWATHANTRAPALYA MAIN ROAD"
+    },
+    {
+        "Sl No": "48",
+        "Station Name": "A STATION",
+        "From": "10:00:00",
+        "To": "14:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "R V SHETTY LAYOUT, JAVAHAR STREET ROAD."
+    },
+    {
+        "Sl No": "49",
+        "Station Name": "IISC",
+        "From": "10:00:00",
+        "To": "14:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "17TH CROSS MALLESHWARAM"
+    },
+    {
+        "Sl No": "50",
+        "Station Name": "Mathikere 66/11KV",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "jp park, HMT Layout"
+    },
+    {
+        "Sl No": "51",
+        "Station Name": "RMV 66/11 KV",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "Seenappa Layout, New Bel Road"
+    },
+    {
+        "Sl No": "52",
+        "Station Name": "KHB",
+        "From": "11:00:00",
+        "To": "17:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "BEST COUNTY ,SAMBRAM COLLEGE AREA, JYOTHI NAGARA BHEL L/O,AMBHABAVANI L/O,SHAMRAJPURA . PURUSHOTHAM L/O,KEMPANAHALLI SHASHANK APPRTMNTS,"
+    },
+    {
+        "Sl No": "53",
+        "Station Name": "ABBIGERE",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Paschim County Layout, LV Enclave,"
+    },
+    {
+        "Sl No": "54",
+        "Station Name": "SKN",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "AMRUTHNAGAR"
+    },
+    {
+        "Sl No": "55",
+        "Station Name": "shoba",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "HEGDENAGARA"
+    },
+    {
+        "Sl No": "56",
+        "Station Name": "PUTTENAHALLI",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Vinayak nagar 5thd cross Rd"
+    },
+    {
+        "Sl No": "57",
+        "Station Name": "PUTTENAHALLI",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "ALFA college road"
+    },
+    {
+        "Sl No": "58",
+        "Station Name": "PUTTENAHALLI",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Andra Vindu Hotel Area"
+    },
+    {
+        "Sl No": "59",
+        "Station Name": "KHB",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Juditial Layout"
+    },
+    {
+        "Sl No": "60",
+        "Station Name": "Rajanukunte",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "Adganahalli, Sadenahalli, Surdevenapura."
+    },
+    {
+        "Sl No": "61",
+        "Station Name": "KHB ",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "JAKKUR MAIN ROAD NEAR CHURCH"
+    },
+    {
+        "Sl No": "62",
+        "Station Name": "WELCAST",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "RAVINDRANAGAR,SANTOSHNAGARA, AYYAPPA LAYOUT AIRFORCE."
+    },
+    {
+        "Sl No": "63",
+        "Station Name": "MEI",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Kalyananagar, Pipe line road,1st main road"
+    },
+    {
+        "Sl No": "64",
+        "Station Name": "WELCAST",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "MTS colony near mutthurayaswamy temple road ,Pipeline road ,prashanthnagara surroundings Ramesh road, prashanth nagara surroundings,BWSSB pump house"
+    },
+    {
+        "Sl No": "65",
+        "Station Name": "MAHALAKSHMI LAYOUT",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Hamsalekha Home, ShankarMutt Park, Milk booth, M.G.Nagar, 12th & 13th Main M.L.Puram Surrounding Area"
+    },
+    {
+        "Sl No": "66",
+        "Station Name": "SRS",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "RING ROAD GG PALYA AND SURROUNDING AREA"
+    },
+    {
+        "Sl No": "67",
+        "Station Name": "BSK",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Byatarayanapura new extn, 58 Bus stop, Mysore road satellite bus stop area"
+    },
+    {
+        "Sl No": "68",
+        "Station Name": "KUMBALGODU",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Balashapalliya Road"
+    },
+    {
+        "Sl No": "69",
+        "Station Name": "RR Nagara",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Uttrahali Road, Konchandra Road, Kodipallia,Annpurnashwary layout"
+    },
+    {
+        "Sl No": "70",
+        "Station Name": "RR Nagara",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Bhoomika Layout,Patangiri, BHEL Layout"
+    },
+    {
+        "Sl No": "71",
+        "Station Name": "Widea",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "BWSSB Area"
+    },
+    {
+        "Sl No": "72",
+        "Station Name": "NG Halli",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Nandagokula Layout"
+    },
+    {
+        "Sl No": "73",
+        "Station Name": "Byadarahalli",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Near Shooting House"
+    },
+    {
+        "Sl No": "74",
+        "Station Name": "Byadarahalli",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Near Halli circle &OM shaki Temple"
+    },
+    {
+        "Sl No": "75",
+        "Station Name": "Byadarahalli",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Syndicate Bank Layout"
+    },
+    {
+        "Sl No": "76",
+        "Station Name": "Brigade",
+        "From": "10:30:00",
+        "To": "12:30:00",
+        "Total": "02:00:00",
+        "Areas affected": "OB CHUDALLI, UTTARI, UDIPALYA"
+    },
+    {
+        "Sl No": "77",
+        "Station Name": "B Mutt",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Suncity Area"
+    },
+    {
+        "Sl No": "78",
+        "Station Name": "B MUTT",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Suncity , BD Colony"
+    },
+    {
+        "Sl No": "79",
+        "Station Name": "B MUTT",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Apurva Layout, BWSSB Office, Kengeri Main Road, Poonam Hall"
+    },
+    {
+        "Sl No": "80",
+        "Station Name": "SIR MV",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Ullal Nagar, Maruti nagar"
+    },
+    {
+        "Sl No": "81",
+        "Station Name": "SIR MV",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Bhuveneswar Nagar,dodabasti Main Road, kalyani Layout,RR layout, Upadhya Layout"
+    },
+    {
+        "Sl No": "82",
+        "Station Name": "SIR MV",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Mallathali Layout, East West College Road, Dwarkabasa Road, KLE College Road"
+    },
+    {
+        "Sl No": "83",
+        "Station Name": "SIR MV",
+        "From": "09:00:00",
+        "To": "17:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "SIR MV 5th Block,\nAmbednagar,Ullal Bus Stand, BDA Colony"
+    },
+    {
+        "Sl No": "84",
+        "Station Name": "Melehalli_66KV",
+        "From": "09:30:00",
+        "To": "13:00:00",
+        "Total": "03:30:00",
+        "Areas affected": "Rampura, Gungarahalli"
+    },
+    {
+        "Sl No": "85",
+        "Station Name": "Melehalli_66KV",
+        "From": "09:30:00",
+        "To": "13:00:00",
+        "Total": "03:30:00",
+        "Areas affected": "Rampura, Gungarahalli"
+    },
+    {
+        "Sl No": "86",
+        "Station Name": "Hejjal",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Mutharayanagudipalya"
+    },
+    {
+        "Sl No": "87",
+        "Station Name": "AKLMUSS",
+        "From": "10:45:00",
+        "To": "13:25:00",
+        "Total": "02:40:00",
+        "Areas affected": "Byagadadenahalli , dodda hagade sidhihosakote "
+    },
+    {
+        "Sl No": "88",
+        "Station Name": "AKLMUSS",
+        "From": "10:45:00",
+        "To": "13:25:00",
+        "Total": "02:40:00",
+        "Areas affected": "Byagadadenahalli, koon Madival , "
+    },
+    {
+        "Sl No": "89",
+        "Station Name": "Surya Nagar ",
+        "From": "10:00:00",
+        "To": "12:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "JR green park"
+    },
+    {
+        "Sl No": "90",
+        "Station Name": "Hulimangala",
+        "From": "10:00:00",
+        "To": "12:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "Tirupalya Village "
+    },
+    {
+        "Sl No": "91",
+        "Station Name": "HULIMANGALA_66/11KV ",
+        "From": "10:00:00",
+        "To": "14:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "Hulimangala Village"
+    },
+    {
+        "Sl No": "92",
+        "Station Name": "Attibele",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Attibele Town towards Sarjapura Road"
+    },
+    {
+        "Sl No": "93",
+        "Station Name": "Attibele",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Yadavanhalli, Jigala,Guddahatti & KHB 3rd Phase"
+    },
+    {
+        "Sl No": "94",
+        "Station Name": "SHIVASANDRA",
+        "From": "11:00:00",
+        "To": "12:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "Tavarekere"
+    },
+    {
+        "Sl No": "95",
+        "Station Name": "HULLENAHALLI",
+        "From": "11:00:00",
+        "To": "12:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "HONNAPURA, NERALEKERE, Hullenahalli"
+    },
+    {
+        "Sl No": "96",
+        "Station Name": "Chatra_66",
+        "From": "11:00:00",
+        "To": "13:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "Thungani, Budiguppe, Rice Mill, Rampura"
+    },
+    {
+        "Sl No": "97",
+        "Station Name": "66/11KV SRINIVASPURA  MUSS",
+        "From": "14:30:00",
+        "To": "15:30:00",
+        "Total": "01:00:00",
+        "Areas affected": "MANIGANAHALLY"
+    },
+    {
+        "Sl No": "98",
+        "Station Name": "220/66/11kv Kolar",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "RTO office, masti badavani PC extension byregowda lay out"
+    },
+    {
+        "Sl No": "99",
+        "Station Name": "220/66/11kv Kolar",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "jayanagara petechamanahalli RG lay out "
+    },
+    {
+        "Sl No": "100",
+        "Station Name": "Chikkaballapura Town MUSS",
+        "From": "11:00:00",
+        "To": "14:00:00",
+        "Total": "03:00:00",
+        "Areas affected": "Harobande,Hunegal,Marasanahalli,Gerahalli,Hanumathapura,Lingashettypura"
+    },
+    {
+        "Sl No": "101",
+        "Station Name": "Manchenahalli",
+        "From": "11:00:00",
+        "To": "13:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "Poshettyhalli,Nallakadirenahalli,Bandammanahalli"
+    },
+    {
+        "Sl No": "102",
+        "Station Name": "BANGARPET 66",
+        "From": "11:00:00",
+        "To": "13:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "VIJAYA NAGARA "
+    },
+    {
+        "Sl No": "103",
+        "Station Name": "BANGARPET 66",
+        "From": "11:00:00",
+        "To": "13:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "KGF ROAD "
+    },
+    {
+        "Sl No": "104",
+        "Station Name": "BANGARPET 66",
+        "From": "12:00:00",
+        "To": "14:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "HULIBELE , HUNASANAHALLI"
+    },
+    {
+        "Sl No": "105",
+        "Station Name": "KGF 66",
+        "From": "13:00:00",
+        "To": "15:00:00",
+        "Total": "02:00:00",
+        "Areas affected": "DK HALLI , DODDARAHALLI "
+    },
+    {
+        "Sl No": "106",
+        "Station Name": "LAKKUIR",
+        "From": "13:00:00",
+        "To": "14:00:00",
+        "Total": "01:00:00",
+        "Areas affected": "Kadavanapura"
+    },
+    {
+        "Sl No": "107",
+        "Station Name": "66/11kv KIADB muss",
+        "From": "10:00:00",
+        "To": "14:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "malur KIADB limits"
+    },
+    {
+        "Sl No": "108",
+        "Station Name": "BYARAKUR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "BYRAKUR AREA"
+    },
+    {
+        "Sl No": "109",
+        "Station Name": "Iragampalli_66",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Mindagal, Neranahalli, Subbarayanapalya, Nallaralahalli, Sujjanahalli, Doddahalli"
+    },
+    {
+        "Sl No": "110",
+        "Station Name": "Heggere 66/11KV",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Kumkumanahalli, kothihalli, Dinnepalya, Mallasandra palya, Adalapura, Halnooru, Halnnoru Vaddarahatti, Gollarahatti"
+    },
+    {
+        "Sl No": "111",
+        "Station Name": "Baddihalli",
+        "From": "11:00:00",
+        "To": "14:00:00",
+        "Total": "03:00:00",
+        "Areas affected": "RAGHAVENDRANAGARA, SHIVAMOOKAMBIKANAGARA, VIJAYANAGARA, C.B.NAGARA, "
+    },
+    {
+        "Sl No": "112",
+        "Station Name": "DAVANAGERE 220 KV SRS",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "JAYANAGARA B BLOCK 1 ST MAIN ROAD ,JNM CONVENT SARASWATHI NAGARA"
+    },
+    {
+        "Sl No": "113",
+        "Station Name": "66/11 KV MUSS DVG",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "SS LAYOUT A &B BLOCK SHANTHI NAGAR KUNDAVADA ROAD WATER WORKS CMC BASAVESHWARA LAYOUT MAHALAKSHMI LAYOUT BALAJI NAGAR KUNDAVADA LAKE"
+    },
+    {
+        "Sl No": "114",
+        "Station Name": "ST.JOHNS WOOD",
+        "From": "10:00:00",
+        "To": "11:15:00",
+        "Total": "01:15:00",
+        "Areas affected": "C/O ST JOHNS WOOD F-4, NEAR GANGOTRI CIRCLE, KARUMARIYAMMA TEMPLE"
+    },
+    {
+        "Sl No": "115",
+        "Station Name": "ST.JOHNS WOOD",
+        "From": "11:15:00",
+        "To": "12:30:00",
+        "Total": "01:15:00",
+        "Areas affected": "C/O STJOHNSWOOD F-7, NEAR KENDRIYA SADAN, NEAR KRG, HT-07"
+    },
+    {
+        "Sl No": "116",
+        "Station Name": "ST.JOHNS WOOD",
+        "From": "12:30:00",
+        "To": "13:30:00",
+        "Total": "01:00:00",
+        "Areas affected": "NEAR VUDIPI SAGAR, GANGOTHRI CIRCLE, BTM LAY OUT, 1 ST STREET, AT TC-60"
+    },
+    {
+        "Sl No": "117",
+        "Station Name": "STJW",
+        "From": "14:00:00",
+        "To": "15:15:00",
+        "Total": "01:15:00",
+        "Areas affected": "NEAR KENDRIYA SADAN, ST.JOHNS WOOD, AT TC-100"
+    },
+    {
+        "Sl No": "118",
+        "Station Name": "ST.JOHNS WOOD",
+        "From": "15:15:00",
+        "To": "16:30:00",
+        "Total": "01:15:00",
+        "Areas affected": "NEAR TO JEEVA MOTORS, 2nd CROSS, KRISHNA MURTHY LAY OUT, AT TC-40"
+    },
+    {
+        "Sl No": "119",
+        "Station Name": "ST.JOHNS WOOD",
+        "From": "16:30:00",
+        "To": "17:30:00",
+        "Total": "01:00:00",
+        "Areas affected": "MARUTHI SUZUKI SHOWROOM, BANNERAGATTA ROAD,"
+    },
+    {
+        "Sl No": "120",
+        "Station Name": "ANAND NAGAR",
+        "From": "10:00:00",
+        "To": "11:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "Behind Samrat Hotel, Sheshadripuram, Nataraj theatre, At TC-92"
+    },
+    {
+        "Sl No": "121",
+        "Station Name": "IISC",
+        "From": "11:30:00",
+        "To": "13:00:00",
+        "Total": "01:30:00",
+        "Areas affected": "Opp: Rajesh/Deepta Appts, Malleswaram, 8 th main, 8 th cross, TC-140"
+    },
+    {
+        "Sl No": "122",
+        "Station Name": "RMV",
+        "From": "13:00:00",
+        "To": "14:00:00",
+        "Total": "01:00:00",
+        "Areas affected": "Opp:Jayanthi appartments, admini main road, 13th cross,b/w 4th & 6th main road,at TC-18"
+    },
+    {
+        "Sl No": "123",
+        "Station Name": "RMV",
+        "From": "14:30:00",
+        "To": "16:00:00",
+        "Total": "01:30:00",
+        "Areas affected": "Opp:Paresh appartment, Government school, malleswaram 4th main,B/W 12th & 13th cross,at TC-72"
+    },
+    {
+        "Sl No": "124",
+        "Station Name": "RMV",
+        "From": "16:00:00",
+        "To": "17:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "Opp Sajan appt, KVschool, RMV extn 6th cross Rd, CVRaman Rd, At TC-08"
+    },
+    {
+        "Sl No": "125",
+        "Station Name": "SIRMV",
+        "From": "10:00:00",
+        "To": "11:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "Maruthi Nagar Main road Near Muss"
+    },
+    {
+        "Sl No": "126",
+        "Station Name": "SIRMV",
+        "From": "11:30:00",
+        "To": "13:00:00",
+        "Total": "01:30:00",
+        "Areas affected": "Amutha vidyalam , KPSC layout"
+    },
+    {
+        "Sl No": "127",
+        "Station Name": "SIRMV",
+        "From": "13:00:00",
+        "To": "14:00:00",
+        "Total": "01:00:00",
+        "Areas affected": "Ganabharthi layout "
+    },
+    {
+        "Sl No": "128",
+        "Station Name": "SIRMV",
+        "From": "14:30:00",
+        "To": "16:00:00",
+        "Total": "01:30:00",
+        "Areas affected": "Kanchanpalya , Opp Petrol bunk"
+    },
+    {
+        "Sl No": "129",
+        "Station Name": "SIRMV",
+        "From": "16:00:00",
+        "To": "17:30:00",
+        "Total": "01:30:00",
+        "Areas affected": "University compound , RR Badavani "
+    },
+    {
+        "Sl No": "130",
+        "Station Name": "BANDIHALLI_110KV",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Ramenahalli, Huchagondanahalli, Peddihalli, Kallegowdanapalya, Annamlenahalli, Eralagere, Ramashetihalli"
+    },
+    {
+        "Sl No": "131",
+        "Station Name": "BANDIHALLI_110KV",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "Huchagondanahalli, Kotanayakanahalli, Maruthibadavane, Peddihalli, Bommenahalli"
+    },
+    {
+        "Sl No": "132",
+        "Station Name": "THALKERE",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "MANGIKUPPE , TALKERE, AYARAHALLI"
+    },
+    {
+        "Sl No": "133",
+        "Station Name": "Sira 66/11KV ",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "Gummanahalli, jumbaramanahalli,emmerahalli,heggenahally,yaliyuru,edigadasarahalli,Yaliyuru,doddagula,edigadasarahalli,arehalli,gummanahalli,halkur,taggihalli,padmapura,jumbaramanahalli,emmerahalli,heggenahally,emmerahalli thanda,Mekeralli village surroudings,Devarahalli village surroudings,Bhuthakatanahallivillage surroudings,Panjiganahally village surroudings,changavara circle,edhga complex,sapthagiri badavane,madhavanagara,baleel layout,vajid layout,kehsava nagar,vidya nagar,nandini layout,maruthi nagar,santhepete,kolladapalleshwara temple,Hanumnathanagara, Forest Office, RMC,Krishna Nagar,KSRTC Dipo back,By pass Pertrol Bunk,Saraswathi Badavanae,"
+    },
+    {
+        "Sl No": "134",
+        "Station Name": "NRS",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "Mahaganapathi Nagar, WEST OF CHORD ROAD SURROUNDING AREA WARD NO 106"
+    },
+    {
+        "Sl No": "135",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "A.D.HALLI 10TH CROSS 10TH MAIN BEHIND AMBEDKAR STADIUM  WARD NO 106"
+    },
+    {
+        "Sl No": "136",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "1st min, 2nd main Meenakshinagar,  Telephone exchage magadi main road."
+    },
+    {
+        "Sl No": "137",
+        "Station Name": "MLP",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "Siddappaji park Surrounding, 7th Cross, 8th, 9th, 10th & 11th cross Adarsh layout."
+    },
+    {
+        "Sl No": "138",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "BHEL TOWNSHIP, SUBBANNA GARDEN, BASAVESHWARA LAYOUT,SUBBANNA GARDEN ."
+    },
+    {
+        "Sl No": "139",
+        "Station Name": "NRS",
+        "From": "11:30:00",
+        "To": "17:30:00",
+        "Total": "06:00:00",
+        "Areas affected": "1st main ,1st D main pipe line Manuvana Vijayanagara,2nd main ,3"
+    },
+    {
+        "Sl No": "140",
+        "Station Name": "MLP",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "2nd cross, 2nd A Cross and 12th main, 13th main Basaveshwaranagar,  Mueseam qaterous surrounding,"
+    },
+    {
+        "Sl No": "141",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "A.D.HALLI 10TH CROSS 10TH MAIN BEHIND AMBEDKAR STADIUM  WARD NO 106"
+    },
+    {
+        "Sl No": "142",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "8th main, 8th A,B & C main, 9th main, 2nd cross Basaveshwaranagar."
+    },
+    {
+        "Sl No": "143",
+        "Station Name": "NRS",
+        "From": "11:30:00",
+        "To": "17:30:00",
+        "Total": "06:00:00",
+        "Areas affected": "rd main,4th main 5th main, 6th main.7th main Viajayanagara,"
+    },
+    {
+        "Sl No": "144",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "VYALIKAVAL HBCS LAYOUT,GKW LAYOUT,GKW LAYOUT 6TH MAIN, PRIYADARSHINI LAYOUT,SUBBANA GARDEN,\nVYALIKAVAL HBCS, NEARVINAYAKA LAYOUT,\n"
+    },
+    {
+        "Sl No": "145",
+        "Station Name": "MLP",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "Cadambi school Surrounding, 2nd Cross, 3rd stage, 4th block Basaveshwaranagar"
+    },
+    {
+        "Sl No": "146",
+        "Station Name": "MLP",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "15th main, 15th A  main, 2nd cross, 3rd stage, 4th Block Basaveshwaranagar"
+    },
+    {
+        "Sl No": "147",
+        "Station Name": "SRIGANDHA KAVALU",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "SUNKADAKATTE, PIPELINE RAOAD SUNAKADAKATTE."
+    },
+    {
+        "Sl No": "148",
+        "Station Name": "SRIGANDHA KAVALU",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": " HEGGANAHALLI, HEGGANAHALLI CROSS, "
+    },
+    {
+        "Sl No": "149",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "8th main, 2nd B, C D & E Cross,  Basaveshwaranagar"
+    },
+    {
+        "Sl No": "150",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "7th main, 7th A, B & C main, 3rd stage, 3rd Block Basaveshwaranagar.  Central bank Surrounding."
+    },
+    {
+        "Sl No": "151",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "Sharada colony Busstop Surrounding.  1st G, H & I Cross Sharada colony"
+    },
+    {
+        "Sl No": "152",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "1st main road, 2nd min road KHB Colony and Subramanya swamy temple surrounding."
+    },
+    {
+        "Sl No": "153",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "service Road Hampinagara,1st main,2nd main 3rd main,3rd A main, 3rd B main,"
+    },
+    {
+        "Sl No": "154",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "ADJASCENT TO WIIDIA LAYOUT,NEAR VINAYAKA LAYOUT,\n1ST MAIN SUBBANNA GARDEN, "
+    },
+    {
+        "Sl No": "155",
+        "Station Name": "VNR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "A.D.HALLI 10TH CROSS 10TH MAIN BEHIND AMBEDKAR STADIUM  WARD NO 106"
+    },
+    {
+        "Sl No": "156",
+        "Station Name": "NRS",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "HP PETROL BUNK AND SURROUNDING AREA WARD NO106"
+    },
+    {
+        "Sl No": "157",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "SHIVANANDNAGARA,\n,VINAYAKA LAYOUT 3RD MAIN,VINAYAKA LAYOUT 1ST MAIN,MOODALAPALYA, "
+    },
+    {
+        "Sl No": "158",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "4th main,5th main, Hampinagara, Remco layout, service Road Hampinagara,"
+    },
+    {
+        "Sl No": "159",
+        "Station Name": "SRIGANDHA KAVALU",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "SUNKADAKATTE, PIPELINE RAOAD SUNAKADAKATTE."
+    },
+    {
+        "Sl No": "160",
+        "Station Name": "BYADARAHALLI",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "KAREEM SAB LAYOUT, NEAR KONEGA GARMENTSSOWMYA PACKING PIPE LINE ,SUNKADAKKTTEDR WATERRAMAN COMPOUNDD.R INDUSTRIESHI TECH PRECISION"
+    },
+    {
+        "Sl No": "161",
+        "Station Name": "Telecom layout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "2nd main, 3rd main,4th main, Hampinagara, 1st D main, 1st main, Binny layout, pipeline,"
+    },
+    {
+        "Sl No": "162",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "CHANDRA LAYOUT,GKW LAYOUT,PF LAYOUT,VINAYAKA LAYOUT,VINAYAKA LAYOUT 3RD MAIN,VYALIKAVAL LAYOUT\n"
+    },
+    {
+        "Sl No": "163",
+        "Station Name": "NRS",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "KHB COLONY 2ND STAGE BASAVESHWARANAGAR BANGALORE WARD NO105"
+    },
+    {
+        "Sl No": "164",
+        "Station Name": "NRS",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "8TH CROSS WEST OF CHORD ROAD WARD NO 107"
+    },
+    {
+        "Sl No": "165",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "VYALIKAVAL HBCS KPA BLOCK, CHANDRALAYOUT."
+    },
+    {
+        "Sl No": "166",
+        "Station Name": "Telecom layout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": " 1st main 9th K main, 9th H main, 9th main, Hosahalli Vijayanagara, 6th main , 5th cross, 10th cross, 1"
+    },
+    {
+        "Sl No": "167",
+        "Station Name": "BYADARAHALLI",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "VIJAYALAKSHMIN KALAYANASTRERLAM FACTORYSYSTEMATICS EXPORTSLAKSHMI CHEMICALPRABHAKAR 2KARIYANNA EX CHARMANIE"
+    },
+    {
+        "Sl No": "168",
+        "Station Name": "Telecom layout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "1th cross, 12th cross, 7th main, pipeline,  Haminagara, "
+    },
+    {
+        "Sl No": "169",
+        "Station Name": "Chandralayout",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "NANJARASAPPA LAYOUT  NEAR SKYLINE BBMP PARK\nBAPUJI HBCS LAYOUT CANARA BANK COLONY,MARUTHINAGARA CHANDRA LAYOUT\n "
+    },
+    {
+        "Sl No": "170",
+        "Station Name": "NRS",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "WEST OF CHORD ROAD SURROUNDING AREA WARD NO 106"
+    },
+    {
+        "Sl No": "171",
+        "Station Name": "66/11KV Jiddigere MUSS ",
+        "From": "11:00:00",
+        "To": "16:00:00",
+        "Total": "05:00:00",
+        "Areas affected": "Shettigere"
+    },
+    {
+        "Sl No": "172",
+        "Station Name": "66/11KV AMRUTHURU MUSS ",
+        "From": "11:00:00",
+        "To": "15:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "HOSAPURA  TO SONDEKOPPA"
+    },
+    {
+        "Sl No": "173",
+        "Station Name": "Yadavani  66/11KV MUSS",
+        "From": "11:00:00",
+        "To": "16:00:00",
+        "Total": "05:00:00",
+        "Areas affected": "Valagerepura Village limits"
+    },
+    {
+        "Sl No": "174",
+        "Station Name": "Bhaktharahally 66/11KV",
+        "From": "10:30:00",
+        "To": "14:30:00",
+        "Total": "04:00:00",
+        "Areas affected": "Kalupalya"
+    },
+    {
+        "Sl No": "175",
+        "Station Name": "Chitralli",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Shivaganga,Mahadevapura,madderu,Gilikenahalli Halehalli"
+    },
+    {
+        "Sl No": "176",
+        "Station Name": "HSRLAYOUT_220",
+        "From": "10:30:00",
+        "To": "13:30:00",
+        "Total": "03:00:00",
+        "Areas affected": "2nd Sector, HSR Layout"
+    },
+    {
+        "Sl No": "177",
+        "Station Name": "NIMHANS_66",
+        "From": "14:00:00",
+        "To": "17:00:00",
+        "Total": "03:00:00",
+        "Areas affected": "Siddapura Signal, Moolaranjappa Kalyanabhavan Road"
+    },
+    {
+        "Sl No": "178",
+        "Station Name": "SOMENAHALLI_66",
+        "From": "11:00:00",
+        "To": "14:00:00",
+        "Total": "03:00:00",
+        "Areas affected": "Chikkanencherlu, Pemmanahalli, Puradahalli Somenahalli,"
+    },
+    {
+        "Sl No": "179",
+        "Station Name": "Kempanahally  66/11KV",
+        "From": "11:00:00",
+        "To": "15:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "Shettigere"
+    },
+    {
+        "Sl No": "180",
+        "Station Name": "66/11KV H Durga Muss",
+        "From": "11:00:00",
+        "To": "16:00:00",
+        "Total": "05:00:00",
+        "Areas affected": "RAJENDRAPURA VILLAGE"
+    }
+]

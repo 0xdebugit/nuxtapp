@@ -1,0 +1,162 @@
+[
+    {
+        "Sl No": "1",
+        "Station Name": "BMTC",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "LAKSHMI ROAD"
+    },
+    {
+        "Sl No": "2",
+        "Station Name": "ISRO layout",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Isro Layout, Kumara Swamy Layout,Pipe Line Road"
+    },
+    {
+        "Sl No": "3",
+        "Station Name": "SARAKKI",
+        "From": "10:00:00",
+        "To": "17:30:00",
+        "Total": "07:30:00",
+        "Areas affected": "JP NAGAR 24TH MAIN ROAD , AYODYA NAGAR ,  JP NAGAR 5TH PHASE RAJAKALUVE "
+    },
+    {
+        "Sl No": "4",
+        "Station Name": "SOUTH CITY",
+        "From": "10:30:00",
+        "To": "16:30:00",
+        "Total": "06:00:00",
+        "Areas affected": "Doddakammanahalli, Chikkakammanahalli, Nobo nagar, nobel residency and surrounding areas"
+    },
+    {
+        "Sl No": "5",
+        "Station Name": "SHANTHINIKETHAN_66",
+        "From": "11:00:00",
+        "To": "14:00:00",
+        "Total": "03:00:00",
+        "Areas affected": "PATTANDUR AGRAHARA"
+    },
+    {
+        "Sl No": "6",
+        "Station Name": "Mattikere",
+        "From": "10:00:00",
+        "To": "11:00:00",
+        "Total": "01:00:00",
+        "Areas affected": "Sundar nagar\nBEL Industrial estate"
+    },
+    {
+        "Sl No": "7",
+        "Station Name": "PUTTENAHALLI",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Bagalur Main Road"
+    },
+    {
+        "Sl No": "8",
+        "Station Name": "PUTTENAHALLI",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Maruthi Nagar"
+    },
+    {
+        "Sl No": "9",
+        "Station Name": "PUTTENAHALLI",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Dwaraka Nagar, 5th main Rd"
+    },
+    {
+        "Sl No": "10",
+        "Station Name": "KHB ",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "VIVEK MARVELS APT"
+    },
+    {
+        "Sl No": "11",
+        "Station Name": "THYAMAGONDLU 66/11KV",
+        "From": "10:00:00",
+        "To": "13:00:00",
+        "Total": "03:00:00",
+        "Areas affected": "Beeragonadana halli,Kannohalli,Manne,Manne Rampura"
+    },
+    {
+        "Sl No": "12",
+        "Station Name": "66/11 KV Bagepalli MUSS",
+        "From": "10:30:00",
+        "To": "12:30:00",
+        "Total": "02:00:00",
+        "Areas affected": "Bagepalli Rural Bagepalli Town Pathabagepalli Vadigevaripalli Pothepalli.Kondamavaripalli,Devaragudipalli,Kadirannagaripalli,Parashuramanapalli,Ugalaangepalli"
+    },
+    {
+        "Sl No": "13",
+        "Station Name": "BYARAKUR",
+        "From": "10:30:00",
+        "To": "17:30:00",
+        "Total": "07:00:00",
+        "Areas affected": "BYRAKUR AREA"
+    },
+    {
+        "Sl No": "14",
+        "Station Name": "Y Hunasrnahalli",
+        "From": "10:00:00",
+        "To": "15:00:00",
+        "Total": "05:00:00",
+        "Areas affected": "Upparapete"
+    },
+    {
+        "Sl No": "15",
+        "Station Name": "Talagawara_66",
+        "From": "10:00:00",
+        "To": "17:00:00",
+        "Total": "07:00:00",
+        "Areas affected": "Alambagiri, Gunnahalli, Nidagurki, Kendanahalli, Konganahalli"
+    },
+    {
+        "Sl No": "16",
+        "Station Name": "PULAMAGATTA 66/11KV",
+        "From": "10:00:00",
+        "To": "18:00:00",
+        "Total": "08:00:00",
+        "Areas affected": "KOTAGARLAHALLI, BULLASANDRA, HONNAPURA, SARJAMMANAHLLI, BHEEMANAKUNTE"
+    },
+    {
+        "Sl No": "17",
+        "Station Name": "Sira 66/11KV ",
+        "From": "10:00:00",
+        "To": "16:00:00",
+        "Total": "06:00:00",
+        "Areas affected": "Gummanahalli, jumbaramanahalli,emmerahalli,heggenahally,yaliyuru,edigadasarahalli,Yaliyuru,doddagula,edigadasarahalli,arehalli,gummanahalli,halkur,taggihalli,padmapura,jumbaramanahalli,emmerahalli,heggenahally,emmerahalli thanda,Mekeralli village surroudings,Devarahalli village surroudings,Bhuthakatanahallivillage surroudings,Panjiganahally village surroudings,changavara circle,edhga complex,sapthagiri badavane,madhavanagara,baleel layout,vajid layout,kehsava nagar,vidya nagar,nandini layout,maruthi nagar,santhepete,kolladapalleshwara temple,Hanumnathanagara, Forest Office, RMC,Krishna Nagar,KSRTC Dipo back,By pass Pertrol Bunk,Saraswathi Badavanae,"
+    },
+    {
+        "Sl No": "18",
+        "Station Name": "Kempanahally  66/11KV",
+        "From": "11:00:00",
+        "To": "16:00:00",
+        "Total": "05:00:00",
+        "Areas affected": "ALKERE "
+    },
+    {
+        "Sl No": "19",
+        "Station Name": "66/11KV AMRUTHURU MUSS ",
+        "From": "10:00:00",
+        "To": "14:00:00",
+        "Total": "04:00:00",
+        "Areas affected": "TIGALARAPALYA  TO DASANAKATTE"
+    },
+    {
+        "Sl No": "20",
+        "Station Name": "66/11Kv Tippur MUSS",
+        "From": "11:00:00",
+        "To": "16:00:00",
+        "Total": "05:00:00",
+        "Areas affected": "KADASHETTIHALLI  TO BISINELE"
+    }
+]
