@@ -160,7 +160,7 @@ export default {
   created() {
     this.items = schema.date;
     let d = new Date();
-    let current_date = d.getDate()+'-'+('0'+(d.getMonth()+1))+'-'+d.getFullYear().toString().slice(2);
+    let current_date = d.getDate()+'-'+('0'+(d.getMonth()+1))+'-'+d.getFullYear().toString();
     this.date_selected = this.items.includes(current_date) ? current_date : this.items[0];
     this.updateData(this.date_selected);
 
