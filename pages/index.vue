@@ -70,15 +70,15 @@
               <td class="text-caption">
                 
                 <p class="text-wrap">
-                  {{ item['Station Name'] }}
+                  {{ item['Station '] }}
                 </p>                
                 </td>
               <td class="text-caption" style="color: #6c757d;" :style="`background-color: ${item['color_code']}`">
-                {{item['From']}} - {{item['To']}}
+                {{item['From ']}} - {{item['To']}}
                 </td>
               <td class="text-caption">
                 <p class="text-wrap">
-                  {{ item['Areas affected'] }}
+                  {{ item['Areas Affected'] }}
                 </p>
                 <!-- <span @click="openDialog(item)">See More</span> -->
                 </td>
@@ -117,9 +117,9 @@ export default {
     filterData(){
       if(this.search != null){
         return this.tdata.filter(item => {
-          if(Object.keys(item).includes('Station Name') && Object.keys(item).includes('Areas affected')){
-            if(item['Station Name'].length > 0 && item['Areas affected'].length > 0){
-              return item['Station Name'].toLowerCase().includes(this.search.toLowerCase()) || item['Areas affected'].toLowerCase().includes(this.search.toLowerCase())
+          if(Object.keys(item).includes('Station ') && Object.keys(item).includes('Areas Affected')){
+            if(item['Station '].length > 0 && item['Areas Affected'].length > 0){
+              return item['Station '].toLowerCase().includes(this.search.toLowerCase()) || item['Areas Affected'].toLowerCase().includes(this.search.toLowerCase())
             }
           }
         });
@@ -136,19 +136,23 @@ export default {
       this.overlay = true;
       this.search = '';
       const response = await this.getJsonData(dataset);
+      console.log(response);
       this.tdata = [];
       let color_code = 0;
       response.map(item => {
-        if(Object.keys(item).includes('Station Name') && Object.keys(item).includes('Areas affected')){
+        debugger;
+        if(Object.keys(item).includes('Station ') && Object.keys(item).includes('Areas Affected')){
+          debugger;
 
-          if(Object.keys(item).includes('From') && Object.keys(item).includes('To')){
-            color_code = item['To'].split(':')[0] - item['From'].split(':')[0]
+          if(Object.keys(item).includes('From ') && Object.keys(item).includes('To')){
+            color_code = parseInt(item['Duration'].split(':')[0]);
             color_code = color_code <= 7 ? this.color_range[color_code] : this.color_range[7];
           }
           item['color_code'] = color_code;
           this.tdata.push(item)
         }
       });
+      console.log(this.tdata);
 
       setTimeout(() => {
         this.overlay = false;  
