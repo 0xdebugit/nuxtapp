@@ -136,13 +136,10 @@ export default {
       this.overlay = true;
       this.search = '';
       const response = await this.getJsonData(dataset);
-      console.log(response);
       this.tdata = [];
       let color_code = 0;
       response.map(item => {
-        debugger;
         if(Object.keys(item).includes('Station ') && Object.keys(item).includes('Areas Affected')){
-          debugger;
 
           if(Object.keys(item).includes('From ') && Object.keys(item).includes('To')){
             color_code = parseInt(item['Duration'].split(':')[0]);
@@ -152,7 +149,6 @@ export default {
           this.tdata.push(item)
         }
       });
-      console.log(this.tdata);
 
       setTimeout(() => {
         this.overlay = false;  
