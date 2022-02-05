@@ -134,6 +134,13 @@
     </div>   
 
     </v-card>
+
+    
+  </div>
+
+  <div class="text-center" v-show="filterData.length == 0">
+    No Result found for "{{this.search}}" <br/><br/>
+    It means there is no Scheduled Power Outage for "{{this.search}}" Today, Have Fun!
   </div>
 
     <!-- <div
