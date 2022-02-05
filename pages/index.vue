@@ -38,38 +38,7 @@
       </v-btn>
     </div>
 
-    <div
-      class="flex"
-      style="
-        animation-name: fadeInDown;
-        animation-fill-mode: both;
-        animation-duration: 2s;
-      "
-    >
-      <v-select
-        :items="items"
-        v-model="date_selected"
-        @input="updateData(date_selected)"
-        label="Date"
-        solo
-        dense
-      ></v-select>
-
-      <v-text-field
-        filled
-        clearable
-        label="Search"
-        :placeholder="search_placeholder"
-        v-model="search"
-        prepend-inner-icon="mdi-magnify"
-        rounded
-        dense
-        style="margin-top: -15px"
-      >
-      </v-text-field>
-    </div>
-
-    <v-card class="mx-auto text-center" color="#8f8f8f" v-show="false">
+    <!-- <v-card class="mx-auto text-center" color="#8f8f8f" v-show="false">
       <v-card-text>
         <v-sheet color="rgba(0, 0, 0, .12)">
           <v-sparkline
@@ -96,9 +65,78 @@
       <v-card-text>
         <div class="text-body font-weight-thin text-white">Scheduled Power Outage till 28th Feb</div>
       </v-card-text>
-    </v-card>
+    </v-card> -->
+
+    <v-date-picker
+      v-model="date"
+      no-title
+      full-width
+      class="mt-4"
+      min="2022-02-06"
+      max="2022-02-28"
+      @input="updateData"
+    ></v-date-picker>
 
     <div
+      class="flex"
+      style="
+        animation-name: fadeInDown;
+        animation-fill-mode: both;
+        animation-duration: 2s;
+      "
+    >
+      <v-text-field
+        filled
+        clearable
+        label="Search"
+        :placeholder="search_placeholder"
+        v-model="search"
+        prepend-inner-icon="mdi-magnify"
+        rounded
+        dense
+        style="margin-top: 5px"
+      >
+      </v-text-field>
+    </div>  
+
+  <div v-for="item in filterData" :key="item['Sl No']">
+    <v-card
+      elevation="6"
+      v-if="item['Areas Affected'].toString().length > 5"
+      class="my-4"
+      max-width=""
+      rounded="xl"
+    >
+
+      <div class="py-2 px-4" style="text-transform: capitalize;">{{ item["Station "].length > 5 ? item["Station "].toLowerCase() : item["Station "] }}</div>
+
+      <div class="text-caption font-weight-regular mx-4">
+        <div style="text-transform: capitalize;">{{ item["Areas Affected"].toLowerCase() }}</div>
+      </div>
+
+    <v-divider class="mx-4 my-2"></v-divider>
+
+    <div class="d-flex justify-space-between">
+
+    <span class="mx-4 d-inline-block text-truncate" style="text-transform: capitalize; font-size: 13px;color: #00000061; max-width: 100px;"> 
+      {{ item["Category"].toString().length > 5 ? item["Category"].toString() : item["Category"] }} 
+      </span>
+
+    <v-chip
+      class="mx-4 mb-2"
+      :color="item['color_code']"
+      text-color="white"
+      small
+    >
+      {{ item["From "] }} - {{ item["To"] }}
+    </v-chip>
+    </div>   
+
+    </v-card>
+  </div>
+
+    <!-- <div
+    v-show="false"
       class="mb-6"
       style="
         animation-name: fadeInUp;
@@ -133,13 +171,12 @@
                 <p class="text-wrap">
                   {{ item["Areas Affected"] }}
                 </p>
-                <!-- <span @click="openDialog(item)">See More</span> -->
               </td>
             </tr>
           </tbody>
         </template>
       </v-simple-table>
-    </div>
+    </div> -->
 
     <v-overlay :value="overlay">
       <v-progress-circular indeterminate size="64"></v-progress-circular>
@@ -155,6 +192,7 @@ export default {
   name: "InspirePage",
   data() {
     return {
+      date: (new Date(Date.now() - (new Date()).getTimezoneOffset() * 60000)).toISOString().substr(0, 10),
       expand: false,
       search_placeholder: "",
       search: "",
@@ -172,6 +210,7 @@ export default {
         "#FEBFC0",
         "#FFD2D3",
       ],
+      color_series: ['#a3000b', '#B8000C', '#CC000E', '#E0000F', '#F50010', '#FF0A1B', '#FF1F2E', '#FF3341', '#FF4754'],
       dailyCount: [],
       gradients: [
         ["#222"],
@@ -237,7 +276,9 @@ export default {
     //   });
     //   console.log(this.dailyCount);
     // },
-    async updateData(dataset) {
+    async updateData() {
+      let dataset = this.date.split('-');
+      dataset = dataset[2]+'-'+dataset[1]+'-'+dataset[0];
       this.overlay = true;
       // this.search = '';
       const response = await this.getJsonData(dataset);
@@ -253,10 +294,11 @@ export default {
             Object.keys(item).includes("To")
           ) {
             color_code = parseInt(item["Duration"].split(":")[0]);
+            
             color_code =
               color_code <= 7
-                ? this.color_range[color_code]
-                : this.color_range[7];
+                ? this.color_series[color_code]
+                : this.color_series[7];
           }
           item["color_code"] = color_code;
           this.tdata.push(item);
@@ -278,10 +320,12 @@ export default {
       ("0" + (d.getMonth() + 1)) +
       "-" +
       d.getFullYear().toString();
+    console.log(current_date);
+    current_date = d.getDate() < 10 && '0'+current_date
     this.date_selected = this.items.includes(current_date)
       ? current_date
       : this.items[0];
-    this.updateData(this.date_selected);
+    this.updateData();
 
     let places = [
       "Marathahalli",
@@ -306,6 +350,7 @@ export default {
     //     176, 156, 147, 63, 131, 136, 122, 122, 119, 124, 43, 43, 103,
     //   ];
     // }, 1000);
+    this.color_series.reverse();
   },
 };
 </script>
