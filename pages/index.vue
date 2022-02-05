@@ -33,7 +33,7 @@
         href="https://t.me/glare_app"
         target="_blank"
       >
-        Join our telegram group
+        {{feedback ? 'Join our telegram group' : 'Leave Feedback'}}
         <v-icon right dark> mdi-send </v-icon>
       </v-btn>
     </div>
@@ -77,6 +77,7 @@
       @input="updateData"
     ></v-date-picker>
 
+    <!-- <span style="position: absolute; margin-top: -15px; margin-left: 20px; color: grey;" class="text-caption"> Last updated: {{ this.date }} </span> -->
     <div
       class="flex"
       style="
@@ -193,6 +194,7 @@ export default {
   data() {
     return {
       date: (new Date(Date.now() - (new Date()).getTimezoneOffset() * 60000)).toISOString().substr(0, 10),
+      feedback: true,
       expand: false,
       search_placeholder: "",
       search: "",
@@ -343,6 +345,10 @@ export default {
         places[Math.floor(Math.random() * 6)]
       }`;
     }, 1200);
+
+    setInterval(() => {
+      this.feedback = !this.feedback;
+    }, 4000);    
 
     // setTimeout(() => {
     //   this.dailyCount = [
