@@ -138,9 +138,9 @@
     
   </div>
 
-  <div class="text-center" v-show="filterData.length == 0">
+  <div class="text-center" style="color: #b5b5b2;" v-show="filterData.length == 0">
     No Result found for "{{this.search}}" <br/><br/>
-    It means there is no Scheduled Power Outage for "{{this.search}}" Today, Have Fun!
+    Try searching for another keyword or It means there is no Scheduled Power Outage for "{{this.search}}" Today, Have Fun!
   </div>
 
     <!-- <div
