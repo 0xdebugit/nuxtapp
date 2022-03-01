@@ -72,8 +72,8 @@
       no-title
       full-width
       class="mt-4"
-      min="2022-02-06"
-      max="2022-02-28"
+      min="2022-03-01"
+      max="2022-03-01"
       @input="updateData"
     ></v-date-picker>
 
