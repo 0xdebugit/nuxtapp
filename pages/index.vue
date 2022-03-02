@@ -73,7 +73,7 @@
       full-width
       class="mt-4"
       min="2022-03-01"
-      max="2022-03-01"
+      max="2022-03-02"
       @input="updateData"
     ></v-date-picker>
 
